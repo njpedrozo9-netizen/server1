@@ -1,0 +1,152 @@
+[04:45:34] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[04:45:35] [main/INFO]: Loading 62 mods:
+	- architectury 17.0.8
+	- cloth-config 19.0.147
+	   \-- cloth-basic-math 0.6.1
+	- fabric-api 0.133.4+1.21.8
+	   |-- fabric-api-base 0.5.0+cd8c0daa2c
+	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
+	   |-- fabric-biome-api-v1 16.0.11+946bf4c32c
+	   |-- fabric-block-api-v1 1.1.3+946bf4c32c
+	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
+	   |-- fabric-command-api-v2 2.3.1+52fff9ec2c
+	   |-- fabric-content-registries-v0 10.1.0+c75de69d2c
+	   |-- fabric-convention-tags-v1 2.1.41+7f945d5b2c
+	   |-- fabric-convention-tags-v2 2.15.6+eb5df52f2c
+	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c32c
+	   |-- fabric-data-attachment-api-v1 1.8.13+38b5f74e2c
+	   |-- fabric-data-generation-api-v1 23.2.7+0b1ef9762c
+	   |-- fabric-dimensions-v1 4.0.20+948fc79a2c
+	   |-- fabric-entity-events-v1 2.1.2+c9e472732c
+	   |-- fabric-events-interaction-v0 4.0.25+946bf4c32c
+	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5b2c
+	   |-- fabric-item-api-v1 11.5.0+02ce13f42c
+	   |-- fabric-item-group-api-v1 4.2.14+c5f9bbc12c
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
+	   |-- fabric-lifecycle-events-v1 2.6.4+db4dfd852c
+	   |-- fabric-loot-api-v2 3.0.56+3f89f5a52c
+	   |-- fabric-loot-api-v3 2.0.3+946bf4c32c
+	   |-- fabric-message-api-v1 6.1.2+946bf4c32c
+	   |-- fabric-model-loading-api-v1 5.2.7+946bf4c32c
+	   |-- fabric-networking-api-v1 5.0.3+4ddbf91b2c
+	   |-- fabric-object-builder-api-v1 21.1.9+946bf4c32c
+	   |-- fabric-particles-v1 4.1.9+946bf4c32c
+	   |-- fabric-recipe-api-v1 8.1.16+946bf4c32c
+	   |-- fabric-registry-sync-v0 6.1.29+946bf4c32c
+	   |-- fabric-renderer-api-v1 7.0.4+208eed172c
+	   |-- fabric-renderer-indigo 4.0.4+946bf4c32c
+	   |-- fabric-rendering-fluids-v1 3.1.31+fa6cb72b2c
+	   |-- fabric-rendering-v1 12.5.1+fbe231d52c
+	   |-- fabric-resource-conditions-api-v1 5.0.25+98e6d6db2c
+	   |-- fabric-resource-loader-v0 3.1.12+020423442c
+	   |-- fabric-screen-api-v1 2.1.1+277ecf7d2c
+	   |-- fabric-screen-handler-api-v1 1.3.138+946bf4c32c
+	   |-- fabric-serialization-api-v1 1.0.0+fc0e5aba2c
+	   |-- fabric-sound-api-v1 1.0.42+946bf4c32c
+	   |-- fabric-tag-api-v1 1.2.2+946bf4c32c
+	   |-- fabric-transfer-api-v1 6.0.6+946bf4c32c
+	   \-- fabric-transitive-access-wideners-v1 6.5.0+c847ce762c
+	- fabric-language-kotlin 1.13.6+kotlin.2.2.20
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.2.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.2.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.2.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.2.20
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.29.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.7.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.9.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.9.0
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- fallingtree 1.21.8.1
+	- farmersdelight 1.21.8-3.2.5+refabricated
+	   \-- mm 2.3
+	- java 21
+	- minecraft 1.21.8
+	- roughlyenoughitems 20.0.810
+	   \-- error_notifier 1.0.11
+[04:45:35] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server1/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[04:45:35] [main/INFO]: Compatibility level set to JAVA_16
+[04:45:35] [main/INFO]: Compatibility level set to JAVA_21
+[04:45:35] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
+[04:45:35] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
+[04:45:36] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[04:45:43] [main/INFO]: Loaded config farmersdelight-common.json
+[04:45:44] [main/INFO]: Definitely not up to no good
+[04:45:44] [main/INFO]: [REI] Registered plugin provider CommonREIPlugin [farmersdelight] for REICommonPlugin
+[04:45:44] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[04:45:44] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
+[04:45:44] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
+[04:45:44] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
+[04:45:44] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[04:45:44] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[04:45:44] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[04:45:44] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[04:45:44] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[04:45:44] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:45:46] [main/INFO]: Loaded 1726 recipes
+[04:45:46] [main/INFO]: Loaded 1730 advancements
+[04:45:46] [main/INFO]: Applied 81 biome modifications to 44 of 65 new biomes in 8.399 ms
+[04:45:46] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[04:45:46] [Server thread/INFO]: Loading properties
+[04:45:46] [Server thread/INFO]: Default game type: SURVIVAL
+[04:45:46] [Server thread/INFO]: Generating keypair
+[04:45:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:45:47] [Server thread/INFO]: Using epoll channel type
+[04:45:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:45:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:45:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:45:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:45:47] [Server thread/INFO]: Preparing level "world"
+[04:45:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:45:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:45:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:45:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:45:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:45:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:45:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:45:50] [Server thread/INFO]: Time elapsed: 2708 ms
+[04:45:50] [Server thread/INFO]: Done (3.132s)! For help, type "help"
+[04:45:50] [Server thread/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
+[04:45:50] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
+[04:45:50] [Server thread/INFO]: [REI] Plugins (4):
+[04:45:50] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[04:45:50] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[04:45:50] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[04:45:50] [Server thread/INFO]: [REI]  - (0.00) CommonREIPlugin of CommonREIPlugin [farmersdelight]
+[04:45:50] [Server thread/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
+[04:45:50] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 2.417 ms, totaling 80.71 ms.
+[04:45:50] [Server thread/INFO]: [REI] ****************************************
+[04:45:50] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
+[04:45:50] [Server thread/INFO]: [REI] Plugins (4):
+[04:45:50] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[04:45:50] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[04:45:50] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[04:45:50] [Server thread/INFO]: [REI]  - (0.00) CommonREIPlugin of CommonREIPlugin [farmersdelight]
+[04:45:50] [Server thread/INFO]: [REI] ****************************************
+[04:45:50] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 2.182 ms, totaling 90.97 ms.
+[04:46:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:47:49] [Server thread/INFO]: Simon[/127.152.97.142:54773] logged in with entity id 46 at (68.60722519925156, 128.0, 1.4981702630191918)
+[04:47:49] [Server thread/INFO]: Simon joined the game
+[04:49:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[04:50:04] [Server thread/INFO]: Simon has made the advancement [Acquire Hardware]
+[04:54:43] [Server thread/INFO]: Simon has made the advancement [Isn't It Iron Pick]
+[04:55:52] [Server thread/INFO]: Simon has made the advancement [Not Today, Thank You]
+[05:16:29] [Server thread/INFO]: Simon lost connection: Disconnected
+[05:16:29] [Server thread/INFO]: Simon left the game
+[05:17:29] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[05:18:59] [Server thread/INFO]: Stopping the server
+[05:18:59] [Server thread/INFO]: Stopping server
+[05:18:59] [Server thread/INFO]: Saving players
+[05:18:59] [Server thread/INFO]: Saving worlds
+[05:18:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:18:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:18:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:18:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:18:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:18:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:18:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
